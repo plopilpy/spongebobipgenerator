@@ -1,21 +1,16 @@
-<html>
-
-<head>
 <style>
 h1{
 font-family: 'snap-itc-regular';
 }
 </style>
-</head>
 
-<body>
+
 
 <h1>
 <?php
 echo $_SERVER['REMOTE_ADDR'];
 ?>
 </h1>
-
-</body>
-
-</html>
+  
+  
+  
