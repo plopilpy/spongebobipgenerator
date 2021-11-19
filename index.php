@@ -2,6 +2,9 @@
 h1{
 font-family: 'snap-itc-regular';
 }
+  body{
+    background-color:black;
+  }
 </style>
 
 
